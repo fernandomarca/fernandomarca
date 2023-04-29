@@ -9,7 +9,7 @@
 - English Intermediate Level 🌎
 - Knowledge of Agile relayed on SCRUM ⚙
 - Ability to work creatively 🧠
-- Currently learning **Kotlin**, **Flutter** and **Rust Lang** 📚
+- Current backend projects in **Rust Lang** 📚
 
 <hr>
 <div>
@@ -32,8 +32,6 @@
 <br>
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
